@@ -1,0 +1,6 @@
+Added Component: Designator=CN9(SMD PAD 1)
+Added Component: Designator=CN10(SMD PAD 1)
+Added Pin To Net: NetName=Vin_BAT Pin=CN9-1
+Added Pin To Net: NetName=GND Pin=CN10-1
+Added Member To Class: ClassName=Power Member=Component CN9 SMD PAD 1
+Added Member To Class: ClassName=Power Member=Component CN10 SMD PAD 1

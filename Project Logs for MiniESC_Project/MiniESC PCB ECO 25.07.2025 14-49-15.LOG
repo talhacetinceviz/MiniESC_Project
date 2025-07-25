@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Vin_BAT Pin=CN9-1
+Removed Pin From Net: NetName=GND Pin=CN10-1
+Removed Member From Class: ClassName=Power Member=CN9
+Removed Member From Class: ClassName=Power Member=CN10

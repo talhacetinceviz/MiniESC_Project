@@ -1,0 +1,4 @@
+Added Component: Designator=CN11(2 Pin SMD)
+Added Pin To Net: NetName=5V Pin=CN11-1
+Added Pin To Net: NetName=GND Pin=CN11-2
+Added Member To Class: ClassName=Power Member=Component CN11 2 Pin SMD

@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MiniESC_Project.PrjPcb]
+   Generated File[MiniESC.GTO]
+   Generated File[MiniESC.GTP]
+   Generated File[MiniESC.GTS]
+   Generated File[MiniESC.GTL]
+   Generated File[MiniESC.GP1]
+   Generated File[MiniESC.G1]
+   Generated File[MiniESC.G2]
+   Generated File[MiniESC.GP2]
+   Generated File[MiniESC.GBL]
+   Generated File[MiniESC.GBS]
+   Generated File[MiniESC.GBP]
+   Generated File[MiniESC.GBO]
+   Generated File[MiniESC.GM]
+   Generated File[MiniESC.EXTREP]
+   Generated File[MiniESC.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 00:54:48 On 26.07.2025

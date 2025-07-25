@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=3V3 Member=SCL
+Removed Member From Class: ClassName=3V3 Member=SDA
+Removed Member From Class: ClassName=3V3 Member=SWCLK
+Removed Member From Class: ClassName=3V3 Member=SWIO
+Added Class: Name=I2C

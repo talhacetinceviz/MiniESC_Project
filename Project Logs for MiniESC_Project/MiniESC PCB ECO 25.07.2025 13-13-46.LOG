@@ -1,0 +1,8 @@
+Added Component: Designator=FD5(FD Rounded)
+Added Component: Designator=FD6(FD Square)
+Added Component: Designator=FD7(FD Rounded)
+Added Component: Designator=FD8(FD Square)
+Added Member To Class: ClassName=Cover Member=Component FD5 Fidicual_Rounded
+Added Member To Class: ClassName=Cover Member=Component FD6 Fidicual_Square
+Added Member To Class: ClassName=Cover Member=Component FD7 Fidicual_Rounded
+Added Member To Class: ClassName=Cover Member=Component FD8 Fidicual_Square

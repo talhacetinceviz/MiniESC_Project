@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Cover.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Cover.SchDoc|FileName=MCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Cover.SchDoc|FileName=Mosfet_and_Driver.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Cover.SchDoc|FileName=Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Cover.SchDoc|FileName=Revision_Note.SchDoc|SheetNumber=2
