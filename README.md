@@ -1,5 +1,4 @@
 # MiniESC_Project
-ESC PCB Tasarımı
 
 <img width="1293" height="917" alt="image" src="https://github.com/user-attachments/assets/3d2965c5-ff8a-4df2-832f-b160efcda9fe" />
 
